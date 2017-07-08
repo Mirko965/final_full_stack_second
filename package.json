@@ -1,0 +1,19 @@
+{
+  "name": "final_full_stack_second",
+  "version": "1.0.0",
+  "description": "fix git & npm & pug error",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirko965/final_full_stack_second.git"
+  },
+  "author": "Mirko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirko965/final_full_stack_second/issues"
+  },
+  "homepage": "https://github.com/Mirko965/final_full_stack_second#readme"
+}
